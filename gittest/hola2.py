@@ -7,3 +7,4 @@ print("fixing rama 1")
 
 print("fuck me")
 print("1")
+print("3")
